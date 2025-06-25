@@ -1,10 +1,12 @@
 # Stock-Correlation-Heatmap
 
 **Overview**
+
 This Streamlit application provides an interactive tool to visualize the correlation between the daily returns of various stock tickers. Understanding stock correlation is a fundamental concept in finance, especially for portfolio diversification, as it helps identify how different assets move in relation to each other.
 
 
 **Features**
+
 Popular Ticker Selection: Easily select from a list of commonly traded stocks (e.g., AAPL, MSFT, GOOG).
 Custom Ticker Input: Add any valid stock ticker symbols you wish to analyse.
 Flexible Date Range: Define custom start and end dates for your analysis.
@@ -13,7 +15,8 @@ Interactive Heatmap Visualisation: A clear and intuitive heatmap displays the co
 Downloadable Data: Export the calculated correlation matrix as a CSV file for further analysis.
 
 
-**Technologies Used**
+**Technologies Used**:
+
 This application is built using the following Python libraries:
 
 Streamlit: For building interactive web applications with pure Python.
