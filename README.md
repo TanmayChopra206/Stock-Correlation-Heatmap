@@ -2,7 +2,7 @@
 
 **Overview**
 
-This Streamlit application provides an interactive tool to visualize the correlation between the daily returns of various stock tickers. Understanding stock correlation is a fundamental concept in finance, especially for portfolio diversification, as it helps identify how different assets move in relation to each other.
+This Streamlit application provides an interactive tool to visualise the correlation between the daily returns of various stock tickers. Understanding stock correlation is a fundamental concept in finance, especially for portfolio diversification, as it helps identify how different assets move in relation to each other.
 
 
 **Features**
