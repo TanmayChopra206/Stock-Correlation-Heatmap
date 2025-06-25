@@ -18,7 +18,7 @@ common_tickers = ["AAPL", "MSFT", "GOOG", "AMZN", "TSLA", "NVDA", "META", "NFLX"
 selected_common = st.sidebar.multiselect(
     "Select from popular tickers:",
     options=common_tickers,
-    default=["AAPL", "MSFT"]
+    default=common_tickers
 )
 
 # Custom ticker input
