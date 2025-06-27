@@ -38,7 +38,7 @@ auto_adjust = st.sidebar.checkbox("Use auto-adjusted prices", value=False)
 
 # --- Main Title ---
 st.title("📈 Stock Price Correlation Heatmap")
-st.write("Analyze the correlation between daily returns of selected stocks.")
+st.write("Analyse the correlation between daily returns of selected stocks.")
 
 # --- Validation ---
 if len(tickers) < 2:
